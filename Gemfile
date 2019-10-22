@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'jquery-rails'
 gem 'uglifier'
 gem 'devise'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'mailboxer'
 
 gem 'coffee-rails'
